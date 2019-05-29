@@ -66,6 +66,20 @@
       "minLength": 1,
       "defaultValue": "[resourceGroup().location]"
     },
+	"aseName": {
+      "type": "string",
+      "defaultValue": "HclCoeASE",
+      "metadata": {
+        "description": "Name of the App Service Environment"
+      }
+    },
+    "aseResourceGroupName": {
+      "type": "string",
+      "defaultValue": "HclCoeASE",
+      "metadata": {
+        "description": "Name of the resource group that the ASE resides in."
+      }
+    },
     "sitecoreSKU": {
       "type": "string",
       "allowedValues": [ "Extra Small", "Small", "Medium", "Large", "Extra Large" ],

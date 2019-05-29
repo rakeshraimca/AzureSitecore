@@ -24,6 +24,14 @@
         "authCertificateThumbprint": null
       }
     },
+	"aseName":{
+      "type": "string",
+      "defaultValue": ""
+    },
+    "aseResourceGroupName":{
+      "type": "string",
+      "defaultValue": "[resourceGroup().name]"
+    },
 
     "deploymentId": {
       "type": "string",

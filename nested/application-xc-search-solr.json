@@ -36,6 +36,14 @@
       "type": "string",
       "defaultValue": "[resourceGroup().name]"
     },
+	"aseName":{
+      "type": "string",
+      "defaultValue": ""
+    },
+    "aseResourceGroupName":{
+      "type": "string",
+      "defaultValue": "[resourceGroup().name]"
+    },
     "location": {
       "type": "string",
       "minLength": 1,
