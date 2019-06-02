@@ -26,7 +26,6 @@
                         "templateLink": "https://raw.githubusercontent.com/Sitecore/Sitecore-Azure-Quickstart-Templates/master/SXA%201.8/xp/azuredeploy.json",
                         "parameters": {
                             "cdSxaMsDeployPackageUrl": "https://euwsitecoredevsa.blob.core.windows.net/euwsitecoredevsa-con/Sitecore%20Experience%20Accelerator%201.8.1%20rev.%20190319%20for%209.1.1%20CD.scwdp.zip?st=2019-05-29T13%3A39%3A37Z&se=2020-05-30T13%3A39%3A00Z&sp=rl&sv=2018-03-28&sr=c&sig=4mMy68X2ZWqJckplreWOQKAaKqIW4NQ51hLCppRXYoE%3D",
-                            "cmSxaMsDeployPackageUrl": "https://euwsitecoredevsa.blob.core.windows.net/euwsitecoredevsa-con/Sitecore%20Experience%20Accelerator%201.8.1%20rev.%20190319%20for%209.1.1.scwdp.zip?st=2019-05-29T13%3A39%3A37Z&se=2020-05-30T13%3A39%3A00Z&sp=rl&sv=2018-03-28&sr=c&sig=4mMy68X2ZWqJckplreWOQKAaKqIW4NQ51hLCppRXYoE%3D",
                             "speMsDeployPackageUrl": "https://euwsitecoredevsa.blob.core.windows.net/euwsitecoredevsa-con/Sitecore%20PowerShell%20Extensions-5.0.scwdp.zip?st=2019-05-29T13%3A39%3A37Z&se=2020-05-30T13%3A39%3A00Z&sp=rl&sv=2018-03-28&sr=c&sig=4mMy68X2ZWqJckplreWOQKAaKqIW4NQ51hLCppRXYoE%3D"
                         }
                     },
